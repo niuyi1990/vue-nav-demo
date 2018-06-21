@@ -35,7 +35,8 @@
 <style scoped>
   .div_bac {
     width: 100%;
-    height: 100%;
+    min-height: 100%;
+    position: absolute;
   }
 
   .div_title {
